@@ -8,7 +8,8 @@ The colab notebook 'RAG_based_on_Llama3.ipynb' details out the implmentation and
 The dataset is from kaggle and is a collection 2,225 news articles published by the BBC News, spanning various categories including Sport, Business, Politics, Tech, and Entertainment. Our language of focus is English.
 
 
-Other architecture:
+
+**Other architecture**:
 
 -> This project uses Llama3 LLM as this is the new state-of-the-art and finetuned and optimized for dialogue/chat bot use cases.
 
